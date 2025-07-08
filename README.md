@@ -19,7 +19,7 @@ Make sure you have a C++ compiler installed (e.g., g++, clang++).
 
 ```bash
 # Compile
-g++ -o tictactoe main.cpp
+g++ -o tictactoe tictactoe.cpp
 
 # Run
 ./tictactoe
